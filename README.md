@@ -1,6 +1,6 @@
 # 🎵 AR Piano Trainer
 
-## 📌 Project Overview
+## Project Overview
 
 This Unity-based Augmented Reality (AR) application helps users learn and play songs by visualizing notes in real-time.
 
