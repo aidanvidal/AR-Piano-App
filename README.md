@@ -32,3 +32,12 @@ This Unity-based Augmented Reality (AR) application helps users learn and play s
 3. Install AR Foundation and the necessary AR platform packages (**ARKit for iOS, ARCore for Android**).  
 4. Upload your own MIDI files in the app’s Resources folder and add them to the list in the Midi Reader game object.  
 5. Build and deploy to a compatible AR-supported device.  
+
+## Anchor Placement
+![Anchor Placement GIF](Gifs/AnchorPlacement480-ezgif.com-video-to-gif-converter.gif)
+
+## Note Mapping
+![Anchor Placement GIF](Gifs/NoteMapping480-ezgif.com-video-to-gif-converter.gif)
+
+## Song Demo
+![Anchor Placement GIF](Gifs/SongPart480-ezgif.com-video-to-gif-converter.gif)
